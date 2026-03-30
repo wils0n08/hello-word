@@ -4,7 +4,7 @@ ATIVIDADES UNIPE
 
 numero c)
 
-''pyhton
+
 
 valor = float(input("Digite o valor do produto: "))
 preco_final = valor * 1.08
@@ -37,6 +37,6 @@ horas = float(input("Digite as horas trabalhadas: "))
 valor_hora = float(input("Digite o valor por hora: "))
 salario = horas * valor_hora
 print("Salário total:", salario)
-```
+
 
 
