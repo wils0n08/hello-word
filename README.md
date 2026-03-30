@@ -2,6 +2,7 @@
 atividades da unipe
 
 numero c)
+
 ''pyhton
 
 valor = float(input("Digite o valor do produto: "))
