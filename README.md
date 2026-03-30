@@ -2,10 +2,12 @@
 atividades da unipe
 
 numero c)
+''pyhton
 
 valor = float(input("Digite o valor do produto: "))
 preco_final = valor * 1.08
 print("Preço final com imposto:", preco_final)
+
 
 numero d)
 
