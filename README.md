@@ -2,8 +2,7 @@
 ATIVIDADES UNIPE
 
 
-numero c)
-
+letra c)
 
 
 valor = float(input("Digite o valor do produto: "))
@@ -11,7 +10,7 @@ preco_final = valor * 1.08
 print("Preço final com imposto:", preco_final)
 
 
-numero d)
+letra d)
 
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
